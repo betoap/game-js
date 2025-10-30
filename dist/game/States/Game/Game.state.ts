@@ -17,7 +17,7 @@ export class GameState extends State {
 
   public override async enter(): Promise<void> {
     this.dataMap = await fetch('../../../assets/json/fase3.json');
-    console.log(this.dataMap);
+    this.dataMap = await this.dataMap.json();
 
     // create objects
     new Rigidbody();
