@@ -8,7 +8,7 @@ import { World } from '../../IA/World.js';
 import { Rigidbody } from './../../Physicas/Rigidbody.js';
 export class GameState extends State {
     async enter() {
-        this.dataMap = await fetch('../../../assets/json/fase3.json');
+        this.dataMap = await fetch('./../../assets/json/fase3.json');
         this.dataMap = await this.dataMap.json();
         new Rigidbody();
         this.world = new World(this.dataMap);
