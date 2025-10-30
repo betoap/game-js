@@ -1,0 +1,188 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Dungeon Tileset 1.3/2D Hand Painted - Dungeon Tileset/Example Level/Example Level.json": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2982,
+                "y": 1292
+            }
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Dungeon Tileset 1.3/2D Hand Painted - Dungeon Tileset/Example Level/Example Level.json#Dungeon": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Dungeon Tileset 1.3/2D Hand Painted - Dungeon Tileset/Example Level/Example Level.json#Dungeon Tileset 2": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Dungeon Tileset 1.3/2D Hand Painted - Dungeon Tileset/Example Level/Example Level.json#Flame Animation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Dungeon Tileset 1.3/2D Hand Painted - Dungeon Tileset/Example Level/Example Level.json#Shadows": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Interior Tileset 1.3/2D Hand Painted - Interior Tileset/Example Level/Example Level.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1392.4242424242425,
+                "y": 1324.2424242424242
+            }
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Interior Tileset 1.3/2D Hand Painted - Interior Tileset/Example Level/Example Level.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Interior Tileset 1.3/2D Hand Painted - Interior Tileset/Example Level/Example Level.json#Interior 2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Interior Tileset 1.3/2D Hand Painted - Interior Tileset/Example Level/Example Level.json#Shadows": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Mine Tileset 1.3/2D Hand Painted - Mine Tileset/Example Level/Example Level.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2343.939393939394,
+                "y": 1500
+            }
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Mine Tileset 1.3/2D Hand Painted - Mine Tileset/Example Level/Example Level.json#Mine": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Beto/Downloads/2D Hand Painted - Mine Tileset 1.3/2D Hand Painted - Mine Tileset/Example Level/Example Level.json#Shadows": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Beto/Downloads/rpg-dungeon-pack v1.1(wonderdot)/rpg-dungeon-pack v1.1(wonderdot)/examples.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 810,
+                "y": 586.5
+            }
+        },
+        "C:/Users/Beto/Downloads/rpg-dungeon-pack v1.1(wonderdot)/rpg-dungeon-pack v1.1(wonderdot)/examples.tmx#dungeon_tileset_v1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase1.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.33333333333326,
+                "y": 319.33333333333326
+            }
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase1.json#Dungeon 2 Color2@64x64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase1.json#Dungeon Color2@64x64": {
+            "scaleInDock": 1
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase2.json": {
+            "scale": 0.6491666666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 638.5109114249037,
+                "y": 479.84595635430037
+            }
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase2.json#Dungeon 2 Color2@64x64": {
+            "scaleInDock": 1
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase2.json#Dungeon Color2@64x64": {
+            "scaleInDock": 1
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase3.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 656,
+                "y": 566
+            }
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase3.json#Dungeon 2 Color2@64x64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Workspace/Node/game-html/src/assets/json/fase3.json#Dungeon Color2@64x64": {
+            "scaleInDock": 1
+        },
+        "fase1.tmx": {
+            "scale": 1.11625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 631.1310190369542,
+                "y": 398.65621500559917
+            }
+        },
+        "fase1.tmx#tilemap": {
+            "scaleInDock": 1
+        },
+        "map-zelda.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 655.3333333333333,
+                "y": 412
+            }
+        },
+        "map-zelda.tmx#Dungeon Color2@64x64": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 217.66666666666663,
+                "y": 158.66666666666669
+            }
+        },
+        "sem título.tmx#tilemap": {
+            "scaleInDock": 3
+        },
+        "tilemap.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Workspace/Node/game-html/src/assets/json",
+    "last.imagePath": "C:/Workspace/Node/game-html/src/assets/images",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 20,
+    "openFiles": [
+        "C:/Workspace/Node/game-html/src/assets/json/fase1.json",
+        "C:/Workspace/Node/game-html/src/assets/json/fase2.json",
+        "C:/Workspace/Node/game-html/src/assets/json/fase3.json"
+    ],
+    "project": "fase1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Workspace/Node/game-html/src/assets/json/fase1.json",
+        "C:/Workspace/Node/game-html/src/assets/json/fase2.json",
+        "C:/Workspace/Node/game-html/src/assets/json/fase3.json",
+        "C:/Users/Beto/Downloads/2D Hand Painted - Dungeon Tileset 1.3/2D Hand Painted - Dungeon Tileset/Example Level/Example Level.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
